@@ -149,7 +149,7 @@ Displays the currently installed version of Git.
 
        git --version
 
-<img src="version.png">
+
 
 
 
